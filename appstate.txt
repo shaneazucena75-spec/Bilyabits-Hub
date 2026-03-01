@@ -1,1 +1,62 @@
-paste your cookie header string here...
+[
+    {
+        "name": "_ga_B9CY1C9VBC",
+        "value": "GS2.1.s1772336002$o2$g1$t1772336018$j44$l0$h0",
+        "domain": ".mozilla.org",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": null,
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1806896018.221,
+        "storeId": null
+    },
+    {
+        "name": "_ga",
+        "value": "GA1.2.1448841452.1772215121",
+        "domain": ".mozilla.org",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": null,
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1806896002.499,
+        "storeId": null
+    },
+    {
+        "name": "_gat",
+        "value": "1",
+        "domain": ".mozilla.org",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": null,
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1772336062,
+        "storeId": null
+    },
+    {
+        "name": "_gid",
+        "value": "GA1.2.230106492.1772336002",
+        "domain": ".mozilla.org",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": null,
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1772422402,
+        "storeId": null
+    }
+]
